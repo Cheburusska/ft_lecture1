@@ -1,0 +1,10 @@
+Preconditions:
+Given not logined user
+
+Steps:
+User open Mobile Operator product page
+User click to button "Order SIM"
+
+Result:
+Scroll to form "Order SIM"
+Page on the upper border of the form
