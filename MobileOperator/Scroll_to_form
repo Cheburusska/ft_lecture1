@@ -1,6 +1,3 @@
-Preconditions:
-Given not logined user
-
 Steps:
 User open Mobile Operator product page
 User click to button "Order SIM"
